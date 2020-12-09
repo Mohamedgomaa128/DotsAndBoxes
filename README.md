@@ -15,9 +15,9 @@ and each has two modes : <ol>
                          <li>two player mode</li>
                          </ol>
                          </p>
-<li>the player can play with the pc , also pc has an AI </li>
+<li>the player can play against the pc , also pc has an AI </li>
 <li>the player can allow the pc to play instead of him (autoplay) </li>
 <li>the game has user input validation </li>
 <li>the game has a flexable menu with ability back one step in many cases if not all possible cases  </li>
-<li> </li>
+<!--<li> </li>-->
 </ol>
