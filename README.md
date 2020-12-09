@@ -47,4 +47,4 @@ and each has two modes : <ol>
 
 ## Note
 <p>if you want to remove all past testing data as those in top players menu or saved grids then you should delete Expert, beg folders before doing such</p>
-<p>the last edits in the project was just removing redundant files and there is no change in the code since 3 months approximately </p>
+<p>the last edits in the project was just removing redundant files</p>
