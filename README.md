@@ -21,3 +21,25 @@ and each has two modes : <ol>
 <li>the game has a flexable menu with ability back one step in many cases if not all possible cases  </li>
 <!--<li> </li>-->
 </ol>
+
+
+## How to run game
+<ol>
+  <li>download "DotsAndBoxes" folder </li>
+  <li>open the folder in any java IDE</li>
+  <li>go to "src/DotsAndBoxes/UI"</li>
+  <li>run the UI class and start the game</li>
+</ol>
+
+
+## what files mean ?
+<ol>
+  <li>Expert file saves the expert mode data</li>
+  <li>beg file saves the beg mode data</li>
+  <li>"src/DotsAndBoxes" contains the sorce code of the game</li>
+  <li>"BeginnerGrid.java" contains beginner grid logic<li>
+  <li>"ExpertGrid.java" contains Expert grid logic<li>
+  <li>"TopPlayers.java" contains top players menu logic<li>
+  <li>"saveAndLoad.java" contains save and load logic<li>
+  <li>"UI.java" contains UI logic<li>
+</ol>
