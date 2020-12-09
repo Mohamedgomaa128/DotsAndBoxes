@@ -43,3 +43,6 @@ and each has two modes : <ol>
   <li>"saveAndLoad.java" contains save and load logic</li>
   <li>"UI.java" contains UI logic</li>
 </ol>
+
+## note
+<p>if you want to remove all past testing data as those in top players menu or saved grids then you should delete Expert, beg folders before doing such</p>
