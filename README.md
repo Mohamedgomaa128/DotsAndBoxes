@@ -48,3 +48,6 @@ and each has two modes : <ol>
 ## Note
 <p>if you want to remove all past testing data as those in top players menu or saved grids then you should delete Expert, beg folders before doing such</p>
 <p>the last edits in the project was just removing redundant files</p>
+
+## To remeber 
+<h3>during this project i created an algorithm for the input validation and an algorithm for felxable manu and mixed between them in the UI and other parts</h3>
