@@ -37,9 +37,9 @@ and each has two modes : <ol>
   <li>Expert file saves the expert mode data</li>
   <li>beg file saves the beg mode data</li>
   <li>"src/DotsAndBoxes" contains the sorce code of the game</li>
-  <li>"BeginnerGrid.java" contains beginner grid logic<li>
-  <li>"ExpertGrid.java" contains Expert grid logic<li>
-  <li>"TopPlayers.java" contains top players menu logic<li>
-  <li>"saveAndLoad.java" contains save and load logic<li>
-  <li>"UI.java" contains UI logic<li>
+  <li>"BeginnerGrid.java" contains beginner grid logic</li>
+  <li>"ExpertGrid.java" contains Expert grid logic</li>
+  <li>"TopPlayers.java" contains top players menu logic</li>
+  <li>"saveAndLoad.java" contains save and load logic</li>
+  <li>"UI.java" contains UI logic</li>
 </ol>
